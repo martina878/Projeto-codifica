@@ -9,57 +9,103 @@ body{
     border: 0px;
 }
 
-#logo{
-    
-    height: 250px;
-    width: 250px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 50%;
+.pic{
+    position: absolute;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.253);
 }
 
-.nos{
-    height: 10px;
-    width: 10px;
-    display: block;
-    background-color: #fff;
-    margin-left: auto;
-    margin-right: auto;
-}
-.pai{
+.logo{
     height: 500px;
     width: 500px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 15%;
-    background-color: black;
-
-}
-ul{
-    list-style-type: none;
-}
-
-li{
-    height: 10px;
-    width: 10px;
-    background-color:#fff;
-    position: relative;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -250px 0 0 -250px;
+    z-index: -1;
 }
 
 #m1{
-    left: 0%; top: 0%; 
-
+    left: 25%;
+    top: 30%;
+    height: 100px;
+    width: 100px;
 }
 
 #m2{
-    left: -100%; top: 0%;
+    left: 10%;
+    top: 5%;
+    height: 140px;
+    width: 140px;
 }
 
 #m3{
-    left: 0%; top: 50%;
+    left: 35%;
+    top: 2%;
+    height: 110px;
+    width: 110px;
 }
 
+#m4{
+    left: 6%;
+    top: 40%;
+    height: 130px;
+    width: 130px;
+}
 
+#m5{
+    left: 15%;
+    top: 70%;
+    height: 100px;
+    width: 100px;
+}
 
+#m6{
+    left: 66%;
+    top: 10%;
+    height: 85px;
+    width: 85px;
+}
+
+#m7{
+    left: 86%;
+    top: 76%;
+    height: 140px;
+    width: 140px;
+}
+
+#m8{
+    left: 80%;
+    top: 36%;
+    height: 110px;
+    width: 110px;
+}
+
+#m9{
+    left: 68%;
+    top: 65%;
+    height: 135px;
+    width: 135px;
+}
+
+#m10{
+    left: 85%;
+    top: 10%;
+    height: 120px;
+    width: 120px;
+}
+
+#m11{
+    left: 55%;
+    top: 80%;
+    height: 100px;
+    width: 100px;
+}
+
+#m12{
+    left: 30%;
+    top: 74%;
+    height: 140px;
+    width: 140px;
+}
