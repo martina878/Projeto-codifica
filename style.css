@@ -20,7 +20,12 @@ svg{
     border-style: solid;
     border-color: CornflowerBlue;
     border-width: 2px;
-    z-index:1;
+    z-index: 0;
+}
+
+li{
+    margin-left: 120px;
+    color: rgb(124, 124, 124);
 }
 
 .esconder{
@@ -39,19 +44,62 @@ svg{
     visibility: visible;
 }
 
+#m2:hover + .esconder{
+    visibility: visible;
+}
+
+#m3:hover + .esconder{
+    visibility: visible;
+}
+
+#m4:hover + .esconder{
+    visibility: visible;
+}
+
+#m5:hover + .esconder{
+    visibility: visible;
+}
+
+#m6:hover + .esconder{
+    visibility: visible;
+}
+
+#m7:hover + .esconder{
+    visibility: visible;
+}
+
+#m8:hover + .esconder{
+    visibility: visible;
+}
+
+#m9:hover + .esconder{
+    visibility: visible;
+}
+
+#m10:hover + .esconder{
+    visibility: visible;
+}
+
+#m11:hover + .esconder{
+    visibility: visible;
+}
+
+#m12:hover + .esconder{
+    visibility: visible;
+}
+
 #container .pic:hover{
-    
     height: 200px;
     width: 200px;  
     transition: 0.3s;  
-    z-index:2;
+    z-index:4;
 }
 
 .divimg{
     position:absolute;
     height:200px;
     width: 500px;
-    z-index:2;
+    z-index:1;
 }
 
 .logo{
@@ -68,6 +116,8 @@ svg{
     left: 25%;
     top: 30%;
     margin: -50px 0 0 -50px;
+    z-index: 2;
+
 }
 
 #m1{
@@ -76,91 +126,139 @@ svg{
     width: 100px;
 }
 
-#m2{
+#divm2{
     left: 10%;
     top: 15%;
+    margin: -70px 0 0 -70px;
+}
+
+#m2{
+    position: absolute;
     height: 135px;
     width: 135px;
-    margin: -70px 0 0 -70px;
+}
+
+#divm3{
+    left: 35%;
+    top: 15%;
+    margin: -55px 0 0 -55px;
 }
 
 #m3{
-    left: 35%;
-    top: 15%;
+    position: absolute;
     height: 110px;
     width: 110px;
-    margin: -55px 0 0 -55px;
+}
+
+#divm4{
+    left: 10%;
+    top: 75%;
+    margin: -65px 0 0 -65px;
 }
 
 #m4{
-    left: 10%;
-    top: 75%;
+    
     height: 130px;
     width: 130px;
-    margin: -65px 0 0 -65px;
+}
+
+#divm5{
+    left: 15%;
+    top: 45%;
+    margin: -50px 0 0 -50px;
 }
 
 #m5{
-    left: 15%;
-    top: 45%;
+    position: absolute;
     height: 120px;
     width: 120px;
-    margin: -50px 0 0 -50px;
+}
+
+#divm6{
+    left: 66%;
+    top: 10%;
+    margin: -45px 0 0 -45px;
 }
 
 #m6{
-    left: 66%;
-    top: 10%;
+    position: absolute;
     height: 90px;
     width: 90px;
-    margin: -45px 0 0 -45px;
+}
 
+#divm7{
+    left: 86%;
+    top: 70%;
+    margin: -70px 0 0 -70px;
+    z-index: 3;
 }
 
 #m7{
-    left: 86%;
-    top: 70%;
+    position: absolute;
     height: 140px;
     width: 140px;
-    margin: -70px 0 0 -70px;
+
+}
+
+#divm8{
+    left: 80%;
+    top: 36%;
+    margin: -55px 0 0 -55px;
+    z-index: 2;
 }
 
 #m8{
-    left: 80%;
-    top: 36%;
+    position: absolute;
     height: 110px;
     width: 110px;
-    margin: -55px 0 0 -55px;
 }
 
-#m9{
+#divm9{
     left: 68%;
     top: 50%;
-    height: 130px;
-    width: 130px;
+    margin: -55px 0 0 -55px;
     margin: -65px 0 0 -65px;
 }
 
-#m10{
+#m9{
+    position: absolute;
+    height: 130px;
+    width: 130px;
+}
+
+#divm10{
     left: 85%;
     top: 10%;
-    height: 120px;
-    width: 120px;
     margin: -60px 0 0 -60px;
 }
 
-#m11{
+#m10{
+    position:absolute;
+    height: 120px;
+    width: 120px;
+    
+}
+
+#divm11{
     left: 65%;
-    top: 75%;
-    height: 100px;
-    width: 100px;
+    top: 74%;
     margin: -50px 0 0 -50px;
 }
 
-#m12{
+#m11{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+}
+
+#divm12{
     left: 30%;
     top: 65%;
+    margin: -70px 0 0 -70px;
+}
+
+#m12{
+    position: absolute;
     height: 140px;
     width: 140px;
-    margin: -70px 0 0 -70px;
 }
