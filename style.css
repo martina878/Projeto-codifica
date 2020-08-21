@@ -29,14 +29,20 @@ svg{
     z-index:2;
 }
 
-.hoverin{
-    height: 200px;
-    width: 200px; 
-    background-color: yellow;
-    display: none;
+.hide{
+    display:none;
 }
 
+.divimg:hover + .hide{
+    position:relative;
+    display: inline-block;
+    background-color: red;
+    height:200px;
+    width:200px;
+    left: 25%;
+    top: 30%;
 
+}
 .logo{
     height: 500px;
     width: 500px;
