@@ -34,13 +34,14 @@ svg{
 }
 
 .divimg:hover + .hide{
-    position:relative;
+    position:absolute;
     display: inline-block;
     background-color: red;
     height:200px;
     width:200px;
-    left: 25%;
-    top: 30%;
+    left: 31%;
+    top: 22%;
+    z-index:2;
 
 }
 .logo{
