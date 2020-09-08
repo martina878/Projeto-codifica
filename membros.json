@@ -1,0 +1,14 @@
+{
+    "membros":[
+        {"nome": "Wallacy Sebastian", "img": "/assets/m5.png"},
+        {"nome": "Enzo Guido", "img": "/assets/m2.png"},
+        {"nome": "Martina Kauffmann", "img":"/assets/m11.png"},
+        {"nome": "Victor Cercasin","img" : "/assets/m8.png"},
+        {"nome": "João Gabriel","img" : "/assets/m12.png"},
+        {"nome": "Pedro Augusto", "img": "/assets/m4.png"},
+        {"nome": "Lucca Motta", "img": "/assets/m6.png"},
+        {"nome": "João Alex", "img": "/assets/m1.png"},
+        {"nome": "Guilherme Bertozzo", "img": "/assets/m9.png"},
+        {"nome": "Arthur MP", "img": "/assets/m10.png"}
+    ]
+}
