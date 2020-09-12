@@ -1,5 +1,5 @@
 {
-    "membros":[
+    "membrosLista": [
         {"nome": "Wallacy Sebastian", "img": "/assets/m5.png"},
         {"nome": "Enzo Guido", "img": "/assets/m2.png"},
         {"nome": "Martina Kauffmann", "img":"/assets/m11.png"},
@@ -12,3 +12,4 @@
         {"nome": "Arthur MP", "img": "/assets/m10.png"}
     ]
 }
+
