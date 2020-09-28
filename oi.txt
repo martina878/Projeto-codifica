@@ -1,0 +1,18 @@
+int main (){
+    int a;
+    int b;
+    int c;
+    int d;
+
+
+    int e = caxaAlta("texto")
+}
+
+
+
+String caxaAlta ("texto"){
+    asdjfopiasjdf
+    paoisjdfi
+    jajsopdfij
+    return texto;
+}

@@ -1,15 +1,15 @@
 {
     "membrosLista": [
-        {"nome": "Wallacy Sebastian", "img": "/assets/m5.png"},
-        {"nome": "Enzo Guido", "img": "/assets/m2.png"},
-        {"nome": "Martina Kauffmann", "img":"/assets/m11.png"},
-        {"nome": "Victor Cercasin","img" : "/assets/m8.png"},
-        {"nome": "João Gabriel","img" : "/assets/m12.png"},
-        {"nome": "Pedro Augusto", "img": "/assets/m4.png"},
-        {"nome": "Lucca Motta", "img": "/assets/m6.png"},
-        {"nome": "João Alex", "img": "/assets/m1.png"},
-        {"nome": "Guilherme Bertozzo", "img": "/assets/m9.png"},
-        {"nome": "Arthur MP", "img": "/assets/m10.png"}
+        {"nome": "Wallacy Sebastian", "img": "/assets/m5.png", "cargo": "algo", "email": "wallacy@codifica.com", "github":"github.com/wallacy"},
+        {"nome": "Enzo Guido", "img": "/assets/m2.png", "cargo": "algo", "email": "enzo@codifica.com", "github":"github.com/enzo"},
+        {"nome": "Martina Kauffmann", "img":"/assets/m11.png", "cargo": "algo", "email": "martina@codifica.com", "github":"github.com/martina"},
+        {"nome": "Victor Cercasin","img" : "/assets/m8.png", "cargo": "algo", "email": "victor@codifica.com", "github":"github.com/victor"},
+        {"nome": "João Gabriel","img" : "/assets/m12.png", "cargo": "algo", "email": "joao@codifica.com", "github":"github.com/joao"},
+        {"nome": "Pedro Augusto", "img": "/assets/m4.png", "cargo": "algo", "email": "pedro@codifica.com", "github":"github.com/pedro"},
+        {"nome": "Lucca Motta", "img": "/assets/m6.png", "cargo": "algo", "email": "lucca@codifica.com", "github":"github.com/lucca"},
+        {"nome": "João Alex", "img": "/assets/m1.png", "cargo": "algo", "email": "joao@codifica.com", "github":"github.com/joao"},
+        {"nome": "Guilherme Bertozzo", "img": "/assets/m9.png", "cargo": "algo", "email": "guilherme@codifica.com", "github":"github.com/guilherme"},
+        {"nome": "Arthur MP", "img": "/assets/m10.png", "cargo": "algo", "email": "arthur@codifica.com", "github":"github.com/arthur"}
     ]
 }
 
